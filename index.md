@@ -268,8 +268,8 @@ Write the canopy properly as:
 
 $$
 \Delta S(t)
-;=;
-\int_0^t \big[,E(\tau\mid x,\Phi_{0\to \tau}) + \varepsilon(\tau),\big],d\tau ;+; \mathcal{C}[\Phi_{0\to t}]
+=
+\int_0^t \big[E(\tau\mid x,\Phi_{0\to \tau}) + \varepsilon(\tau) \big] d\tau + \mathcal{C}[\Phi_{0\to t}]
 $$
 
 where:
