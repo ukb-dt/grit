@@ -69,7 +69,7 @@ In the canon: that’s **θ → Σ**, energy becoming signal.
 ---
 
 **4. East Africa as the Aesthetic Proof**
-Enter the **EAC energy gradient**, 2020s–2030s:
+Enter the **[EAC](https://ukb-dt.github.io/eac/) energy gradient**, 2020s–2030s:
 from 2 kWh/day per capita to 2 MWh/day industrial — not by “trying harder,”
 but by *transcoding* thermodynamic inefficiencies into new equilibria.
 Solar corridors, geothermal roots, transnational grid harmonics —
