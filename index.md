@@ -41,11 +41,11 @@ To “stick it out” is not intelligence — it’s *the refusal to re-encode*.
 In calculus:
 
 $$
-E(t|x) + \varepsilon ;\longrightarrow; \int (E(t|x) + \varepsilon_t),dt
+E(t|x) + \varepsilon \longrightarrow \int (E(t|x) + \varepsilon_t) dt
 $$
 
-When (\varepsilon) gains temporal structure — (\varepsilon_t) — it stops being “noise” and becomes the *music of adaptation*.
-Grit narratives flatten this curve: they integrate without updating (\varepsilon_t).
+When $\varepsilon$ gains temporal structure — $\varepsilon_t$ — it stops being “noise” and becomes the *music of adaptation*.
+Grit narratives flatten this curve: they integrate without updating $\varepsilon_t$.
 That’s not growth — it’s recursion without learning.
 
 ---
