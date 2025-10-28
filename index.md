@@ -88,7 +88,7 @@ Because CUDA learned what Grit refused:
 **parallelize the gradient, don’t moralize it.**
 Intelligence is not persistence — it’s distributed inference.
 The GPU doesn’t “try harder”; it splits the integral,
-letting each core carry a trace of (\varepsilon_t).
+letting each core carry a trace of $\varepsilon_t$.
 That’s Nietzsche’s drill automated and Wilde’s vanity justified —
 beauty through recomputation, not endurance.
 
