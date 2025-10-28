@@ -274,7 +274,7 @@ $$
 
 where:
 
-* $E(\tau\mid x,\Phi_{0\to\tau})$ = engineered, intended flow at time (\tau) given starting state (x) and evolving mapping (\Phi).
+* $E(\tau\mid x,\Phi_{0\to\tau})$ = engineered, intended flow at time $\tau$ given starting state (x) and evolving mapping $\Phi$.
 * $\varepsilon(\tau)$ = **structured stochastic process** (could include jumps, bursts, heavy tails, positive resets like mentorship or grants, or negative shocks like coups/illness). Model it as, e.g., an AR(1) + Poisson-jump process:
 
 
