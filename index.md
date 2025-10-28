@@ -260,7 +260,7 @@ Nice — crisp corrections and stronger connections. I’ll (1) fix the math so 
 
 ---
 
-## 1) Fix the math (proper structure for ( \varepsilon ))
+## 1) Fix the math (proper structure for $\varepsilon$ 
 
 You were right: writing $\varepsilon t$ as if $\varepsilon$ were a constant multiplied by time flattens the phenomenon. Treat $\varepsilon$ as a time series — possibly structured, autocorrelated, and state-dependent.
 
@@ -277,10 +277,11 @@ where:
 * $E(\tau\mid x,\Phi_{0\to\tau})$ = engineered, intended flow at time (\tau) given starting state (x) and evolving mapping (\Phi).
 * $\varepsilon(\tau)$ = **structured stochastic process** (could include jumps, bursts, heavy tails, positive resets like mentorship or grants, or negative shocks like coups/illness). Model it as, e.g., an AR(1) + Poisson-jump process:
 
-  $$
-  \varepsilon(\tau) = \rho,\varepsilon(\tau-1) + \eta(\tau) + \sum_{k} J_k , \mathbf{1}_{{\tau=\tau_k}}
-  $$
-  
+
+$$
+\varepsilon(\tau) = \rho\varepsilon(\tau-1) + \eta(\tau) + \sum_{k} J_k \mathbf{1}_{\tau=\tau_k}
+$$
+
   so the integral is truly path-sensitive:
 
   $$
