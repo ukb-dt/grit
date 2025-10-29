@@ -22,7 +22,7 @@ Here's tasty mash of Victorian wisdom, neuroenergetics, and our ukb-fractal calc
 
 ---
 
-# Prologue & riff (long — suitable for an essay intro)
+# Prologue & [riff](https://ukb-dt.github.io/buuni/) (long — suitable for an essay intro)
 
 **Grit: why passion and resilience are the secrets to success.**
 “For I have always maintained that, excepting fools, men do not differ much in intellect, only in zeal and hard work; and I still think this is an eminently important difference.” — *Charles Darwin (letter to F. Galton)*
